@@ -66,7 +66,8 @@ Replace `COM6` with the correct port on your system.
 3. Click **Start Attack**.
 4. Traffic will be captured and saved as a `.pcap` file.
 
-<img width="903" height="859" alt="Screenshot 2025-08-05 214153" src="https://github.com/user-attachments/assets/26864330-10e7-4202-831c-85aee82ed4eb" />
+<img width="610" height="747" alt="Screenshot 2025-08-05 220840" src="https://github.com/user-attachments/assets/13e218b5-b8b6-4f32-8350-91aa53ccc2fa" />
+
 
 ---
 
